@@ -3,8 +3,8 @@ Solutions for the following LeetCode Questions
 
 Array
   
-- [Two Sum - [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)]
-- [Best Time to Buy and Sell Stock - [https://leetcode.com/problems/best-time-to-buy-and-sell-stock/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) ]
+- Two Sum - [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)
+- Best Time to Buy and Sell Stock - [https://leetcode.com/problems/best-time-to-buy-and-sell-stock/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
 - Contains Duplicate - [https://leetcode.com/problems/contains-duplicate/](https://leetcode.com/problems/contains-duplicate/)  
 - Product of Array Except Self - [https://leetcode.com/problems/product-of-array-except-self/](https://leetcode.com/problems/product-of-array-except-self/)  
 - Maximum Subarray - [https://leetcode.com/problems/maximum-subarray/](https://leetcode.com/problems/maximum-subarray/)  
